@@ -1,0 +1,6 @@
+{
+  "name": "Saarthi AI - Ultimate Exam & Interview Master",
+  "description": "AI-powered competitive exam preparation, adaptive mock tests, mock interviews, and smart revision flashcards for UPSC, BPSC, SSC CGL, Railway RRB, IBPS Banking, and corporate interviews.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
